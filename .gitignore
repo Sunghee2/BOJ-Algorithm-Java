@@ -73,11 +73,7 @@ local.properties
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 # User-specific stuff
-.idea/**/workspace.xml
-.idea/**/tasks.xml
-.idea/**/usage.statistics.xml
-.idea/**/dictionaries
-.idea/**/shelf
+.idea/
 
 # Generated files
 .idea/**/contentModel.xml
@@ -139,7 +135,7 @@ fabric.properties
 ### Intellij Patch ###
 # Comment Reason: https://github.com/joeblau/gitignore.io/issues/186#issuecomment-215987721
 
-# *.iml
+*.iml
 # modules.xml
 # .idea/misc.xml
 # *.ipr
